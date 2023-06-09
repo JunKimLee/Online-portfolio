@@ -9,7 +9,7 @@ How to run:
 4. Once succesfully opened check out the content
 
 
-#side note - Still trying to figure out what projects to display on my online portfolio.
+#side note - Still trying to figure out what projects to display on my online portfolio. Deploying my portfolio online once everything is set up.
 
 
 
